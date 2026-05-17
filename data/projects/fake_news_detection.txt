@@ -1,0 +1,13 @@
+Fake News Detection System (Machine Learning)
+
+Mar 2025 – Mar 2025
+
+Built a machine learning–based system to classify news articles as real or fake using natural language processing techniques.
+
+Performed text preprocessing including cleaning, tokenization, and vectorization using TF-IDF.
+
+Trained and evaluated multiple classification models and compared their performance using appropriate metrics.
+
+Focused on understanding model behavior, limitations, and real-world challenges such as biased or noisy data
+
+Skills: Python (Programming Language), Scikit-Learn, +2 skills

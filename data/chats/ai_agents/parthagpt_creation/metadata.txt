@@ -1,0 +1,11 @@
+Conversation Title: Building ParthaGPT
+Category: AI Agents
+Subcategory: Digital Clone Systems
+Year: 2026
+
+Main Themes:
+- AI agents
+- memory systems
+- RAG
+- autonomous AI
+- digital identity

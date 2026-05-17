@@ -1,0 +1,30 @@
+Project Milestones:
+
+Over time, I have built more than 60 projects across multiple domains including:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Automation
+- Web Development
+- Intelligent Dashboards
+
+Important Projects:
+- AI Surveillance System
+- Driver Drowsiness Detection
+- Fake News Detection
+- AI Finance Engine
+- QR Code Generator
+- Vehicle Number Plate Recognition
+- Face Detection System
+- Crypto Tracker
+- Intelligent AI Dashboards
+
+This project-building journey helped improve:
+- practical engineering skills
+- AI integration ability
+- frontend creativity
+- backend understanding
+- debugging skills
+- system design thinking
+
+The most important achievement is developing the ability to convert ideas into working systems consistently.

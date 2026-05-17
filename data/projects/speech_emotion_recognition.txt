@@ -1,0 +1,54 @@
+Speech Emotion Recognition using Machine Learning (Google Colab)
+
+Apr 2025 – Apr 2025
+
+
+Associated with Vellore Institute of Technology
+
+🧠 Objective
+To develop a machine learning model that can recognize human emotions from short audio clips by analyzing speech features like MFCCs. The model classifies emotions such as Happy, Sad, and Angry from audio input.
+
+⚙️ Tech Stack
+Language: Python
+
+Libraries: Librosa, NumPy, Scikit-learn, Soundfile, Matplotlib
+
+Platform: Google Colab
+
+Model: Random Forest Classifier
+
+Dataset: Synthetically generated audio data (fake sine-wave based .wav files)
+
+📁 Project Workflow
+1. Data Generation
+A fake dataset is created for simplicity and to avoid external dependencies.
+
+Three categories of emotions (happy, sad, angry) are represented by audio files with distinct frequencies.
+
+.wav files are generated using sine waves to simulate different voice tones.
+
+2. Feature Extraction
+Mel-frequency cepstral coefficients (MFCCs) are extracted from each .wav file using Librosa.
+
+MFCCs help in capturing important features from audio that represent the tone and quality of speech.
+
+3. Model Training
+Features and labels are prepared and split into training and testing sets.
+
+A Random Forest Classifier is trained on the MFCC features to learn patterns related to each emotion.
+
+4. Model Evaluation
+The model is evaluated using the test set and a classification report (precision, recall, F1-score) is generated.
+
+5. Real-Time Emotion Prediction
+Users can upload their own .wav file via Google Colab.
+
+The model extracts features and predicts the most likely emotion.
+🌟 Key Highlights
+Works completely in Google Colab — no local setup needed.
+
+Real-time emotion prediction via file upload.
+
+Clean and lightweight solution for educational/demo purposes.
+
+Can be expanded with real datasets (like RAVDESS, CREMA-D) for improved accuracy.

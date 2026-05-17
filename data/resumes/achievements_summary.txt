@@ -1,0 +1,7 @@
+Achievements:
+- Built more than 60 technical projects.
+- Earned over 60 licenses and certifications.
+- Developed multiple AI-powered systems.
+- Built projects involving computer vision and automation.
+- Focused on futuristic AI systems and intelligent workflows.
+- Maintained strong project-building consistency.

@@ -1,0 +1,33 @@
+LangChain Notes:
+
+LangChain is a framework for building AI applications using LLMs, memory systems, tools, and agents.
+
+Main Features:
+- chains
+- agents
+- memory
+- retrievers
+- tools
+- prompt templates
+
+Important Concepts:
+- tool calling
+- conversational memory
+- agent workflows
+- RAG pipelines
+- autonomous systems
+
+Applications:
+- AI agents
+- chat systems
+- autonomous workflows
+- intelligent assistants
+- multi-agent ecosystems
+
+Key Learning:
+LangChain simplifies connecting:
+- LLMs
+- memory
+- vector databases
+- tools
+- workflows

@@ -1,0 +1,12 @@
+ACHIEVEMENTS
+ Global Rank 1 – E-Marketing Strategy
+ 500+ AI & ML projects delivered
+ 165+ certifications across AI, ML, leadership & management
+ Selected for Smart India Hackathon – Round 2
+ Finalist for John Hopkin's Health Hackathon
+ Developed and published pydoc-ai, an open-source CLI tool on PyPI that uses AST parsing and
+LLMs to automatically generate Google-style docstrings for Python codebases. Engineered a
+complete CI/CD pipeline using Poetry and GitHub Actions to automate testing and package
+releases, demonstrating full-cycle software engineering proficiency
+500+ projects
+150+ certifications

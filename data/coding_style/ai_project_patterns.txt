@@ -1,0 +1,22 @@
+Common patterns in my AI projects include:
+- AI + frontend integration
+- real-time processing
+- prediction systems
+- intelligent dashboards
+- automation workflows
+- computer vision pipelines
+- RAG systems
+- AI agents
+- interactive interfaces
+
+I enjoy projects that combine:
+- intelligence
+- automation
+- usability
+- futuristic presentation
+
+My AI projects often focus on:
+- practical applications
+- real-world use cases
+- visual interaction
+- autonomous behavior

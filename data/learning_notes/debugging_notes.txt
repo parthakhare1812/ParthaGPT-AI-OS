@@ -1,0 +1,25 @@
+Debugging Notes:
+
+Debugging is an essential part of software engineering and AI development.
+
+Common Problems:
+- dependency conflicts
+- Flask routing issues
+- model loading failures
+- OpenCV integration problems
+- frontend-backend communication errors
+
+Debugging Workflow:
+1. isolate the issue
+2. check logs
+3. simplify components
+4. test step-by-step
+5. identify root cause
+6. iterate fixes
+
+Key Learning:
+Most debugging becomes easier through:
+- patience
+- systematic testing
+- modular code
+- clear project structure

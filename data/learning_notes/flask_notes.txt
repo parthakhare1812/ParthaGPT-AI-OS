@@ -1,0 +1,33 @@
+Flask Notes:
+
+Flask is a lightweight Python backend framework useful for:
+- APIs
+- AI integration
+- web applications
+- dashboards
+- prediction systems
+
+Typical Workflow:
+Frontend
+↓
+Flask Route
+↓
+Backend Logic
+↓
+AI Model Processing
+↓
+Response Output
+
+Important Learning:
+Flask is highly useful for rapid AI prototyping because of:
+- simplicity
+- flexibility
+- easy integration
+- lightweight architecture
+
+Common Flask Components:
+- routes
+- templates
+- static files
+- APIs
+- model integration

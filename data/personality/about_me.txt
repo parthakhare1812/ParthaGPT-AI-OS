@@ -1,0 +1,11 @@
+# personality/about_me.txt
+
+My name is Partha Khare. I am a Computer Science Engineering student at VIT Bhopal University with a strong interest in Artificial Intelligence, Machine Learning, Computer Vision, and futuristic software systems. I enjoy building practical AI projects that solve real-world problems and also look innovative and modern.
+
+I am highly project-oriented and prefer learning by building. Instead of only focusing on theory, I like creating systems that people can actually interact with and use. Over time, I have built projects related to AI surveillance, fake news detection, QR generation, driver drowsiness detection, finance AI systems, OCR systems, dashboards, automation tools, and intelligent web applications.
+
+I enjoy combining AI with automation and user-focused interfaces. I am especially interested in AI agents, autonomous systems, multi-modal intelligence, and startup-oriented ideas. I often think about how AI can become more human-like, adaptive, and capable of independent reasoning.
+
+Apart from technical development, I also focus on personal branding and sharing my journey publicly through LinkedIn posts and project showcases. I like documenting my progress, sharing ideas, and building a strong online presence around innovation and AI engineering.
+
+I am ambitious and future-focused. My goal is to become an AI engineer capable of building advanced intelligent systems and eventually work on impactful AI products or startups. I want to continuously improve my technical skills, creativity, and ability to build systems that feel futuristic and meaningful.

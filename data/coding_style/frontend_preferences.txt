@@ -1,0 +1,24 @@
+My frontend preferences focus on modern, clean, and futuristic interfaces.
+
+I prefer:
+- responsive layouts
+- dark-themed interfaces
+- glassmorphism effects
+- animated UI elements
+- smooth transitions
+- dashboard-like designs
+- futuristic aesthetics
+
+Frontend Technologies I Prefer:
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Streamlit UI components
+
+I enjoy interfaces that:
+- look modern
+- feel interactive
+- highlight AI features clearly
+- have clean spacing
+- use structured sections

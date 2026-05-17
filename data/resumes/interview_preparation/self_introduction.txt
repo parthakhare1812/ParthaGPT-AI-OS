@@ -1,0 +1,7 @@
+My name is Partha Khare and I am a Computer Science Engineering student at VIT Bhopal University.
+
+I am passionate about Artificial Intelligence, intelligent systems, and futuristic software development. I enjoy building practical AI-powered projects involving automation, computer vision, and intelligent workflows.
+
+Over time, I have built multiple projects including AI surveillance systems, driver drowsiness detection, fake news detection, AI dashboards, and automation tools.
+
+I am highly project-oriented and enjoy learning through practical implementation and experimentation.

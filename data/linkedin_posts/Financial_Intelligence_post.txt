@@ -1,0 +1,32 @@
+Built an AI-Powered Financial Intelligence Engine (Vision + NLP + Analytics)
+Over the past few days, I worked on building a system that can understand financial documents like a human — and extract meaningful insights from them in real-time.
+ What the system does:
+Upload a receipt / invoice
+→ Extracts key data (amount, date, category)
+→ Understands context using NLP
+→ Stores and analyzes transactions
+→ Generates live insights & anomaly alerts
+Key Features:
+• Intelligent Document Understanding (OCR + NLP)
+• Semantic Processing Pipeline
+• Real-time Expense Analytics Dashboard
+• Anomaly Detection (detects unusual transactions)
+• Category-wise Spending Insights
+ Tech Stack:
+• Backend: Flask, SQLite
+• AI/NLP: spaCy
+• Frontend: React (Vite)
+• Data Handling: Pandas
+ What I learned:
+Building this project taught me how to connect AI models with real-world systems — not just training models, but actually making them usable through APIs and interactive dashboards.
+It also gave me hands-on experience in:
+End-to-end system design
+Debugging real integration issues
+Building production-like pipelines
+ Next Steps:
+Planning to enhance this with:
+• CLIP-based image search 
+• Smarter anomaly detection models 
+• More advanced financial insights
+Would love to hear your thoughts or suggestions!
+hashtag#AI hashtag#MachineLearning hashtag#FullStackDevelopment hashtag#FinTech hashtag#React hashtag#Python hashtag#Projects hashtag#LearningInPublic

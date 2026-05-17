@@ -1,0 +1,12 @@
+Certifications:
+- Fundamentals in AI/ML
+- Python Development
+- Flask and Web Development
+- AI and Machine Learning Programs
+- Technology Simulation Programs from Forage
+
+Learning Areas:
+- Artificial Intelligence
+- Machine Learning
+- Automation
+- Technical Development

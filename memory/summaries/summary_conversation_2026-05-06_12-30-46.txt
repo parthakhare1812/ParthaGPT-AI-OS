@@ -1,0 +1,34 @@
+**Key Ideas:**
+- End-to-end AI systems that integrate multiple technologies
+- AI systems that incorporate best practices like model optimization and containerization
+- Custom training, prompt engineering, and real-time knowledge grounding
+- Computer vision applications
+- Lightweight and extendable AI-powered chatbots
+
+**Important Goals:**
+- Building innovative, scalable, and practical AI solutions
+- Combining multiple technologies to create cutting-edge AI systems
+- Creating AI systems that enable precise and controlled outputs
+
+**Personality Insights:**
+- Enthusiastic about integrating multiple technologies to create comprehensive AI solutions
+- Values innovation, scalability, and practicality in AI systems
+- Interested in exploring various applications of AI, including computer vision and natural language processing
+
+**Preferences:**
+- Innovative and scalable AI systems
+- Combination of multiple technologies and disciplines
+- Model optimization, reusable utility modules, and containerization
+- Custom training and real-time knowledge grounding
+
+**Technical Interests:**
+- End-to-end AI system development
+- Model development and optimization
+- Backend engineering and frontend design
+- Containerization via Docker and cloud deployment
+- Computer vision and natural language processing
+
+**Important Long-term Information:**
+- Experience with projects like Agri AI platform, AI content generator, AI-Based Room Decor Suggestion System, and AI Chatbot with SQLite Integration
+- Strong foundation in building AI systems that integrate multiple technologies and disciplines
+- Interest in creating AI systems that enable custom training, prompt engineering, and real-time knowledge grounding.

@@ -1,0 +1,28 @@
+My development workflow usually follows:
+
+Idea
+↓
+Research
+↓
+Project Planning
+↓
+Basic Prototype
+↓
+AI Integration
+↓
+Frontend Improvement
+↓
+Feature Expansion
+↓
+Testing
+↓
+Deployment
+
+I prefer:
+- iterative development
+- rapid prototyping
+- experimentation
+- continuous improvement
+- visible progress
+
+I often improve projects step-by-step instead of trying to perfect everything initially.

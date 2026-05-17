@@ -1,0 +1,35 @@
+Machine Learning Notes:
+
+Machine Learning focuses on enabling systems to learn patterns from data and make predictions or decisions.
+
+Important Concepts:
+- supervised learning
+- unsupervised learning
+- classification
+- regression
+- feature engineering
+- model evaluation
+- preprocessing
+
+Algorithms I have explored:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Naive Bayes
+
+Important Workflow:
+Data Collection
+↓
+Preprocessing
+↓
+Feature Extraction
+↓
+Model Training
+↓
+Evaluation
+↓
+Prediction
+
+Key Learning:
+Good preprocessing and quality data are often more important than complex models.

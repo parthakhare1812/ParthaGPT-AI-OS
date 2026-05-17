@@ -1,0 +1,31 @@
+My roadmap toward becoming an AI engineer includes:
+
+Phase 1:
+- strengthen Python
+- improve Flask and backend development
+- build more AI projects
+- improve frontend design
+- learn deployment properly
+
+Phase 2:
+- master RAG systems
+- learn LangChain
+- work with vector databases
+- build AI agents
+- learn multi-agent systems
+
+Phase 3:
+- learn advanced AI system design
+- build autonomous workflows
+- integrate voice and vision AI
+- improve scalability knowledge
+- explore fine-tuning and memory systems
+
+Phase 4:
+- build startup-level AI systems
+- create production-ready AI platforms
+- contribute to open source
+- build unique AI products
+- develop scalable intelligent ecosystems
+
+I want continuous project-based learning throughout this roadmap.

@@ -1,0 +1,26 @@
+# personality/mindset.txt
+
+I believe learning becomes most effective when combined with building. I prefer creating projects and experimenting with ideas instead of only consuming tutorials or theory. I enjoy challenging myself with ambitious systems even if they seem difficult initially.
+
+I am highly curious about the future of AI and how intelligent systems can evolve beyond traditional applications. I often think about AI agents, autonomous workflows, multi-agent systems, human-like memory systems, and adaptive reasoning.
+
+I prefer practical innovation over repetitive learning. If I learn a new concept, I immediately think about how it can be converted into a real project, startup idea, automation tool, or impactful application.
+
+I enjoy futuristic thinking and usually prefer projects that:
+- combine multiple technologies
+- solve real-world problems
+- look impressive
+- have strong portfolio value
+- stand out from generic projects
+
+I value consistency, growth, and experimentation. I understand that improvement happens gradually through repeated building and iteration. I am comfortable learning through mistakes and debugging complex systems.
+
+I also care about long-term growth. I think about:
+- career direction
+- startup opportunities
+- AI engineering
+- personal branding
+- industry trends
+- future technologies
+
+I prefer staying ahead of trends rather than following outdated approaches.

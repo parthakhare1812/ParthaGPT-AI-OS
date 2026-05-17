@@ -1,0 +1,42 @@
+AI Chatbot with SQLite Integration
+
+Project Title: AI Chatbot with SQLite Integration
+Overview:
+This project involves creating an AI-powered chatbot using Python that interacts with users via the command line. It retrieves responses from an SQLite database based on user input using fuzzy string matching. This chatbot is lightweight, fast, and easily extendable, making it a great foundation for future enhancements like web integration, voice interface, or AI-based NLP models.
+
+Objectives:
+Build a responsive chatbot using Python.
+
+Store question-answer pairs in an SQLite database.
+
+Use fuzzy string matching to match user questions to the database.
+
+Create a reusable, scalable, and easy-to-update chatbot base.
+
+Tech Stack:
+Language: Python
+
+Database: SQLite
+
+Libraries:
+
+sqlite3 for database operations
+
+difflib for fuzzy matching
+
+Key Features:
+Fuzzy Matching: Finds the best match for the user’s question using string similarity.
+
+Database Integration: Easily editable SQLite database to store Q&A pairs.
+
+Real-Time Interaction: Engages users via a clean CLI-based interface.
+
+Expandable Architecture: Easy to scale with NLP, APIs, or a web front end.
+How it Works:
+The user inputs a question.
+
+The chatbot fetches all available Q&A pairs from the SQLite database.
+
+It uses difflib.get_close_matches() to find the best match for the input.
+
+If a match is found, it responds accordingly; else, it replies with a fallback message.

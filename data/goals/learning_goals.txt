@@ -1,0 +1,29 @@
+My learning goals include improving both technical and practical engineering skills.
+
+Areas I want to improve:
+- AI engineering
+- RAG systems
+- LangChain
+- CrewAI
+- LangGraph
+- Flask backend development
+- React frontend development
+- deployment and DevOps basics
+- system architecture
+- vector databases
+- memory systems
+
+I also want to improve:
+- debugging
+- scalability thinking
+- clean code practices
+- project structuring
+- API integration
+
+I prefer learning by:
+- building projects
+- experimenting
+- improving existing systems
+- creating real applications
+
+I enjoy roadmap-based learning with visible progress.

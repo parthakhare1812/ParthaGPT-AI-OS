@@ -1,0 +1,91 @@
+PARTHA KHARE
+Bhopal, India | parthakhare7@gmail.com | +91-9630216666 | LinkedIn: linkedin.com/in/partha-khare-1115b131b |
+GitHub: github.com/parthakhare1812
+PROFESSIONAL SUMMARY
+Computer Science undergraduate with strong foundations in Artificial Intelligence, Machine Learning,
+and Full-Stack Development. Experienced in building end-to-end AI-driven systems across computer
+vision, NLP, and LLM-based applications.
+EDUCATION
+VIT Bhopal University, Bhopal, India — B.Tech in Computer Science Engineering | Expected 2028
+EXPERIENCE
+Marketing Intern, 1Stop.ai | Remote (Apr 2026 – Present)
+ Worked as part of the Student Ambassador Program contributing to outreach and campaigns
+ Assisted in planning and executing marketing initiatives
+ Coordinated with teams to ensure task completion
+ Analyzed data and contributed insights for campaign improvement
+ Demonstrated leadership, communication, and problem-solving skills
+Machine Learning Intern, Slash Mark IT Solutions | Remote (Mar 2026 – Apr 2026)
+ Worked on practical machine learning tasks and project-based assignments
+ Applied ML concepts to real-world problem statements
+ Developed solutions using Python and ML libraries
+ Followed industry practices for coding, documentation, and execution
+Artificial Intelligence Intern, ShadowFox | Remote (Feb 2026 – Mar 2026)
+ Worked on AI/ML projects through structured learning and mentor guidance
+ Progressed from beginner to advanced project levels
+ Participated in doubt-clearing sessions and final project presentation
+ Strengthened understanding of AI workflows and project execution
+Artificial Intelligence Intern, CodeClause | Remote (Jan 2026 – Feb 2026)
+ Applied AI concepts to practical tasks and real-world problems
+ Strengthened foundations in Python and machine learning
+ Learned debugging, documentation, and clean coding practices
+ Developed self-driven learning and time management skills
+Python Developer Intern, The Skybrisk | Remote (Dec 2025 – Present)
+ Project-based internship focused on real-world Python development
+ Built technical solutions using Python through structured training
+ Worked on development tasks with performance evaluations
+Data Engineer Intern, Oasis Infobyte | Remote (Nov 2025 – Dec 2025)
+ Worked on data pipelines and structured datasets
+ Prepared data for machine learning workflows
+Artificial Intelligence Intern, CodeAlpha | Hybrid (Oct 2025 – Nov 2025)
+ Built and evaluated ML models
+ Collaborated on AI-based system integration
+Cyber Security Intern, Redynox | Hybrid (Aug 2025 – Sep 2025)
+ Worked on vulnerability assessments and penetration testing
+ Performed CTI research and security analysis
+Python Developer Intern, Pinnacle Labs | Hybrid (Jul 2025 – Sep 2025)
+ Developed Python scripts and backend logic
+ Optimized code performance and debugging
+KEY PROJECTS
+SQL Query Engine on JSON Data
+ Custom-built SQL parser and execution engine supporting SELECT, WHERE, JOIN, GROUP BY, and
+aggregation functions
+Automated Graph Intersection Detection
+ Computer vision system to detect and count intersection points in 2D line graphs using image
+processing
+Intelligent OMR Evaluation System
+ Advanced OMR sheet analyzer using OpenCV to detect filled bubbles, handle partial markings, and
+compute scores
+Smart Image Search Engine
+ Multi-modal AI system using CLIP embeddings for semantic image and text-based search with
+similarity ranking
+Driver Drowsiness Detection System
+ Real-time fatigue detection using OpenCV and MediaPipe
+MediGuard AI
+ Multiple conventional models trained and fine-tuned with SAH for improved accuracy
+Multi-Object Detection & Pose Estimation
+ YOLOv5-based object detection with MediaPipe; 270+ project portfolio on GitHub
+TECHNICAL SKILLS
+Languages: Python, Java, JavaScript, SQL, HTML | AI/ML: PyTorch, TensorFlow, OpenCV, NLP, CNNs,
+LLMs, RAG, Pandas, Scikit-learn | Web: Flask,React, REST APIs | Tools: Git, GitHub, Docker, Google
+Colab, VS Code
+ACHIEVEMENTS
+ Global Rank 1 – E-Marketing Strategy
+ 500+ AI & ML projects delivered
+ 165+ certifications across AI, ML, leadership & management
+ Selected for Smart India Hackathon – Round 2
+ Finalist for John Hopkin's Health Hackathon
+ Developed and published pydoc-ai, an open-source CLI tool on PyPI that uses AST parsing and
+LLMs to automatically generate Google-style docstrings for Python codebases. Engineered a
+complete CI/CD pipeline using Poetry and GitHub Actions to automate testing and package
+releases, demonstrating full-cycle software engineering proficiency.
+HOW MY SKILLS CAN ENHANCE YOUR COMPANY
+ Innovation through Implementation: Ability to convert theoretical knowledge into scalable
+technical solutions, demonstrated through 76+ diverse projects.
+ Rapid Prototyping & Deployment: Skilled in building and iterating MVPs using Python, Flask, and
+machine learning models.
+ Team-ready Problem Solving: Hands-on experience from hackathons and coding platforms,
+enabling collaborative problem-solving.
+ Adaptability Across Domains: Worked on solutions ranging from facial recognition to financial and
+data-driven systems, well-suited for agile teams.
+ Continual Learning Mindset: Ongoing upskilling through 60+ certifications, workshops, and
+technical events to stay aligned with evolving technologies.

@@ -1,0 +1,36 @@
+Programming Languages:
+- Python
+- JavaScript
+- HTML
+- CSS
+
+Frameworks and Libraries:
+- Flask
+- Streamlit
+- OpenCV
+- YOLO
+- Scikit-learn
+
+AI/ML:
+- Machine Learning
+- Computer Vision
+- NLP Basics
+- RAG Systems
+- AI Agents
+- Vector Databases
+
+Frontend:
+- Responsive UI Design
+- Tailwind CSS
+- Dashboard Interfaces
+
+Backend:
+- Flask APIs
+- AI Integration
+- Model Deployment Basics
+
+Tools:
+- GitHub
+- VS Code
+- Streamlit Cloud
+- Render

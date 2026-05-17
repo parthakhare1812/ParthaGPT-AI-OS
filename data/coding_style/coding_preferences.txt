@@ -1,0 +1,31 @@
+I prefer writing code that is practical, readable, and modular. I focus more on building working intelligent systems than creating overly complex implementations.
+
+My coding style usually emphasizes:
+- simplicity
+- functionality
+- modular structure
+- AI integration
+- practical implementation
+- clean organization
+
+I prefer:
+- beginner-friendly readability
+- scalable folder structures
+- fast prototyping
+- project-based development
+- iterative improvements
+
+I usually prioritize:
+1. functionality
+2. user experience
+3. AI integration
+4. clean structure
+5. optimization later
+
+I enjoy building:
+- AI systems
+- automation workflows
+- Flask applications
+- intelligent dashboards
+- computer vision systems
+- AI agents

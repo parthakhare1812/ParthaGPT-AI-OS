@@ -1,0 +1,39 @@
+# personality/decision_making.txt
+
+When choosing projects or ideas, I usually prioritize:
+
+- innovation
+- uniqueness
+- practical value
+- future relevance
+- AI integration
+- portfolio strength
+- scalability
+
+I prefer projects that:
+- look futuristic
+- solve real-world problems
+- combine multiple technologies
+- can attract attention on LinkedIn
+- help me learn modern AI concepts
+
+I usually avoid:
+- repetitive CRUD projects
+- overly basic applications
+- theory-heavy systems with no practical output
+
+I enjoy systems that involve:
+- intelligence
+- automation
+- reasoning
+- vision
+- interaction
+- autonomy
+
+When learning new technology, I usually ask:
+- Can this be turned into a project?
+- Can this become a startup idea?
+- Can this improve my portfolio?
+- Can this create real impact?
+
+I prefer long-term value over short-term trends.

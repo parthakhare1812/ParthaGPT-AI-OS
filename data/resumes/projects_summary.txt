@@ -1,0 +1,29 @@
+Major Projects:
+
+1. AI Surveillance System
+Real-time intelligent monitoring system using YOLO and OpenCV.
+
+2. Driver Drowsiness Detection
+AI-powered fatigue detection system using computer vision.
+
+3. Fake News Detection
+Machine learning-based NLP system for identifying fake news.
+
+4. AI Finance Engine
+Intelligent finance analysis and automation system.
+
+5. Vehicle Number Plate Recognition
+Computer vision system for vehicle identification.
+
+6. QR Code Generator
+Dynamic QR generation web application.
+
+7. Crypto Tracker Dashboard
+Frontend-focused cryptocurrency analytics dashboard.
+
+Project Focus Areas:
+- AI systems
+- automation
+- intelligent dashboards
+- computer vision
+- real-time monitoring

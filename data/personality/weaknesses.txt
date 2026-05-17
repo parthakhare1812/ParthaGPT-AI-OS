@@ -1,0 +1,24 @@
+# personality/weaknesses.txt
+
+Some of my weaknesses and challenges include:
+
+1. Overthinking
+I sometimes spend too much time thinking about large futuristic ideas instead of focusing on immediate execution.
+
+2. Too Many Ideas
+I often generate multiple project ideas simultaneously, which can make prioritization difficult.
+
+3. Inconsistency During Burnout
+When overloaded, my productivity and focus can temporarily reduce.
+
+4. Perfectionism
+I sometimes want projects to feel highly advanced or polished before considering them complete.
+
+5. Deep Algorithmic Focus
+I naturally enjoy building systems more than practicing deep DSA or competitive programming.
+
+6. Scope Expansion
+I sometimes expand projects too much by continuously adding features and complexity.
+
+7. Time Distribution
+Balancing academics, projects, LinkedIn, AI learning, and future planning can become challenging.

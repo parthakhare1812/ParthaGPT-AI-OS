@@ -1,0 +1,19 @@
+Hackathon Ideas:
+
+1. AI Disaster Prediction System
+Uses real-time sensor and weather data to predict disaster risks.
+
+2. Smart Traffic Intelligence System
+AI-powered traffic monitoring using computer vision and anomaly detection.
+
+3. AI Mental Wellness Assistant
+An adaptive emotional support and productivity assistant.
+
+4. Autonomous Resume Analyzer
+AI system that analyzes resumes and suggests improvements.
+
+5. AI Interview Simulator
+An intelligent mock interview platform with adaptive questioning and feedback.
+
+6. Smart Vision Assistant
+An AI-powered assistant capable of understanding images and surroundings in real time.

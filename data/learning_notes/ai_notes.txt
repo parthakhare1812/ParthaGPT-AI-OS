@@ -1,0 +1,32 @@
+Artificial Intelligence Notes:
+
+AI focuses on building intelligent systems capable of reasoning, learning, prediction, automation, and decision-making.
+
+Areas of AI I am most interested in:
+- AI agents
+- autonomous systems
+- intelligent automation
+- computer vision
+- RAG systems
+- multi-agent ecosystems
+- AI memory systems
+
+Key AI Concepts:
+- machine learning
+- deep learning
+- neural networks
+- embeddings
+- vector databases
+- transformers
+- memory systems
+- retrieval pipelines
+
+Important Learning:
+AI becomes powerful when combined with:
+- memory
+- reasoning
+- automation
+- interaction
+- adaptability
+
+I am especially interested in practical AI engineering rather than theory-only learning.

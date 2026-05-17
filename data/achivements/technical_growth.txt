@@ -1,0 +1,28 @@
+Technical Growth Journey:
+
+My technical growth started with learning Python and gradually expanded into:
+- AI systems
+- Flask development
+- computer vision
+- automation
+- intelligent dashboards
+- AI agents
+
+Over time, I improved:
+- project structuring
+- AI integration
+- frontend systems
+- backend workflows
+- debugging
+- system thinking
+
+One major growth pattern is transitioning from:
+basic projects
+→ AI-integrated systems
+→ autonomous intelligent workflows
+
+I now focus more on:
+- advanced AI systems
+- futuristic architectures
+- autonomous agents
+- scalable intelligent platforms

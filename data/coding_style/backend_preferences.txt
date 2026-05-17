@@ -1,0 +1,22 @@
+I prefer lightweight and practical backend systems.
+
+Backend Technologies I Prefer:
+- Flask
+- Python APIs
+- REST APIs
+- lightweight modular systems
+
+My backend approach focuses on:
+- simplicity
+- fast implementation
+- AI integration
+- easy debugging
+- modular routes
+- practical workflows
+
+I usually structure backend systems around:
+- APIs
+- AI pipelines
+- prediction logic
+- model integration
+- frontend communication

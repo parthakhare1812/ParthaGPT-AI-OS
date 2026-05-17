@@ -1,0 +1,46 @@
+I built my own PVOICE(JARVIS).
+And it stopped working because I ran out of tokens.
+And honestly… I’m proud of that.
+Let me explain.
+Over the past few days, I built a full-stack AI Voice Assistant powered by Grok (xAI). Not just a “call the API and print response” project — but a proper system.
+Here’s what it includes:
+🔐 Secure Login & Registration (Flask-Login + password hashing)
+🗄 Persistent chat history stored in a database (SQLAlchemy)
+🧠 Grok API integration with structured message handling
+🎙 Real-time voice output using browser speech synthesis
+🎤 Wake-word detection (“Hey Jarvis”)
+🖥 Clean dark, holographic-style UI
+⚠️ Proper error handling for 500s, invalid models, and API failures
+At one point, everything started throwing errors.
+500 Internal Server Error.
+Model not found.
+Incorrect API key.
+I debugged it step by step:
+• Checked session authentication
+• Verified environment variables
+• Revoked and regenerated API keys
+• Listed available models
+• Wrapped API calls in try/except blocks
+• Ensured JSON responses never break the frontend
+Finally, it worked.
+Then I hit:
+“Token quota exceeded.”
+And that’s when it clicked.
+The only thing stopping my AI system wasn’t a bug.
+It was billing.
+Which means the architecture was correct.
+As a CSE student building 60+ projects so far, this one taught me something important:
+Real engineering isn’t about making it work once.
+It’s about understanding why it breaks — and fixing it properly.
+This project strengthened my understanding of:
+• Full-stack system design
+• Authentication & session management
+• Database modeling
+• Secure API handling
+• Backend debugging under pressure
+• Building AI applications like real products
+Running out of tokens felt less like failure…
+and more like proof that I built something real.
+More systems coming soon.
+hashtag#AI hashtag#FullStackDevelopment hashtag#Flask hashtag#BuildInPublic hashtag#StudentDeveloper hashtag#SoftwareEngineering
+

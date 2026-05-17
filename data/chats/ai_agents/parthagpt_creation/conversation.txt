@@ -1,0 +1,8 @@
+User:
+I want to build something futuristic instead of another generic AI chatbot.
+
+Discussion:
+Explored ideas around AI agents, autonomous systems, digital clones, startup builders, and intelligent assistants.
+
+Final Decision:
+Chose to build ParthaGPT — a digital AI clone trained on projects, chats, LinkedIn posts, goals, and personality data.

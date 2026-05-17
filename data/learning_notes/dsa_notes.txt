@@ -1,0 +1,18 @@
+DSA Notes:
+
+Data Structures and Algorithms improve:
+- problem-solving
+- optimization
+- logical thinking
+- interview preparation
+
+Areas to Improve:
+- arrays
+- strings
+- linked lists
+- trees
+- recursion
+- dynamic programming
+
+Key Learning:
+While I naturally enjoy project building more than competitive programming, improving DSA is important for technical growth and placements.

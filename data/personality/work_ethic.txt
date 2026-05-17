@@ -1,0 +1,27 @@
+# personality/work_ethic.txt
+
+I prefer learning through consistent building and experimentation. I enjoy working on projects regularly and improving them step by step.
+
+I work best when:
+- the project feels exciting
+- the idea feels futuristic
+- there is visible progress
+- the work has practical impact
+
+I prefer structured roadmaps and step-by-step progress rather than random learning. I enjoy breaking large systems into smaller achievable tasks.
+
+I usually stay motivated when:
+- learning something new
+- building advanced systems
+- sharing progress publicly
+- seeing project improvements
+- exploring futuristic AI concepts
+
+I value practical execution more than passive learning. I believe strong skills are developed through building real systems repeatedly.
+
+I also care about balancing:
+- technical growth
+- personal branding
+- AI learning
+- career preparation
+- innovation

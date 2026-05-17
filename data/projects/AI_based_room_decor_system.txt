@@ -1,0 +1,43 @@
+AI Based Room Decor managment system
+
+🧠 Project Title: AI-Based Room Decor Suggestion System
+📌 Objective:
+The AI-Based Room Decor Suggestion System is designed to provide intelligent decoration suggestions for indoor spaces by analyzing images of rooms. By using computer vision and AI, the system detects key furniture items and empty spaces and then generates meaningful decor recommendations to enhance aesthetic appeal and functionality.
+
+🎯 Goals:
+To analyze images of indoor rooms using AI.
+
+To detect common furniture or empty spaces using object detection.
+
+To provide automated decoration suggestions based on layout and contents.
+
+To offer a simple interface for users to upload room images and receive recommendations.
+
+🚀 Features:
+Upload a room image via a web interface.
+
+Detect room elements like bed, sofa, table, wall, TV, etc.
+
+Generate decoration suggestions like “Add a lamp near the bed” or “Place a plant beside the chair.”
+
+Display both the uploaded image and the suggestions on the same page.
+
+Lightweight and easy to run locally or deploy on cloud.
+
+🛠️ Tech Stack:
+Layer	Tools Used
+Frontend	HTML5, CSS3 (can be extended to React/Streamlit)
+Backend	Python with Flask
+AI Model	YOLOv5 (via Torch Hub) for object detection
+Libraries	OpenCV, Torch, Flask, Pandas
+
+🔁 Workflow:
+User uploads an image of a room using a simple frontend.
+
+Flask backend saves the image to a folder.
+
+The image is passed to the YOLOv5 model which detects key objects.
+
+Detected items are mapped to a set of predefined decor rules.
+
+Suggestions are displayed on the frontend alongside the uploaded image.

@@ -1,0 +1,28 @@
+Built an AI Smart Surveillance System using YOLOv8, OpenCV & Flask
+Excited to share one of my latest AI/Computer Vision projects — an intelligent real-time surveillance system capable of monitoring live video feeds and detecting suspicious activities automatically.
+Features:
+✅ Real-Time Person Detection
+✅ People Counting
+✅ Crowd Detection
+✅ Intrusion Detection
+✅ Suspicious Activity Detection
+✅ Automatic Alert Snapshot Saving
+✅ Live Flask Web Dashboard
+
+
+Tech Stack:
+Python • OpenCV • YOLOv8 • Flask • NumPy
+The system uses YOLOv8 for accurate real-time human detection and OpenCV for anomaly detection through motion analysis and frame differencing.
+One of the most interesting parts of this project was integrating:
+🔹 Real-time object detection
+🔹 AI-based surveillance logic
+🔹 Live browser streaming
+🔹 Automated alert generation
+This project helped me gain deeper understanding of:
+Computer Vision
+Real-Time AI Systems
+Flask Streaming
+Video Analytics
+Intelligent Monitoring Systems
+Looking forward to exploring more in AI-powered security and smart monitoring systems.
+#AI #MachineLearning #ComputerVision #YOLO #OpenCV #Python #Flask #DeepLearning #ArtificialIntelligence #SurveillanceSystem #TechProjects #BuildInPublic

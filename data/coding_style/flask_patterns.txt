@@ -1,0 +1,24 @@
+My Flask development style usually includes:
+- lightweight app structure
+- modular routes
+- template-based frontend rendering
+- API integration
+- AI model integration
+
+Common Flask Workflow:
+User Input
+↓
+Backend Route
+↓
+AI Processing
+↓
+Prediction/Output
+↓
+Frontend Response
+
+I prefer:
+- simple Flask setups
+- readable routes
+- organized templates
+- easy deployment structures
+- scalable AI integration

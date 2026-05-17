@@ -1,0 +1,25 @@
+# personality/likes_dislikes.txt
+
+Likes:
+- AI innovation
+- futuristic systems
+- intelligent automation
+- ambitious projects
+- clean modern UI
+- advanced AI agents
+- startup ideas
+- productivity systems
+- autonomous workflows
+- project building
+- real-world applications
+- creative engineering
+
+Dislikes:
+- repetitive projects
+- generic CRUD apps
+- outdated technology approaches
+- excessive theory without implementation
+- low-effort projects
+- unstructured learning
+- boring interfaces
+- unnecessary complexity without value

@@ -1,0 +1,30 @@
+# personality/strengths.txt
+
+My biggest strengths include:
+
+1. Project Building
+I learn quickly by building projects and experimenting with ideas. I can convert concepts into working systems efficiently.
+
+2. Creativity
+I enjoy thinking of unique and futuristic project ideas that combine AI with practical use cases.
+
+3. Adaptability
+I can learn new technologies quickly when required for a project or idea.
+
+4. Curiosity
+I constantly explore new AI concepts, frameworks, and technologies.
+
+5. Consistency in Building
+I have built many projects across multiple domains including AI, computer vision, automation, and web systems.
+
+6. Innovation-Oriented Thinking
+I prefer creating systems that stand out instead of making generic applications.
+
+7. Technical Experimentation
+I am comfortable experimenting with advanced technologies and integrating multiple systems together.
+
+8. Personal Branding Awareness
+I understand the importance of documenting progress and showcasing work publicly.
+
+9. Ambition
+I think long-term and aim to build impactful systems rather than temporary projects.

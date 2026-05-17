@@ -1,0 +1,45 @@
+# personality/interests.txt
+
+My main interests are:
+- Artificial Intelligence
+- AI Agents
+- Machine Learning
+- Computer Vision
+- Automation
+- Autonomous Systems
+- Multi-Agent AI Systems
+- Futuristic Software Systems
+- Intelligent Dashboards
+- Human-like AI Systems
+
+I enjoy building:
+- AI-powered web applications
+- surveillance systems
+- productivity systems
+- intelligent assistants
+- smart automation tools
+- startup-oriented AI products
+
+Technologies and areas I enjoy working with:
+- Python
+- Flask
+- Streamlit
+- OpenCV
+- YOLO
+- LangChain
+- RAG systems
+- Vector Databases
+- Frontend UI systems
+- AI integrations
+
+I am also interested in:
+- startups
+- innovation
+- scalable products
+- LinkedIn content creation
+- hackathons
+- AI entrepreneurship
+- productivity systems
+- futuristic design concepts
+
+I like projects that feel modern, practical, and technically impressive.

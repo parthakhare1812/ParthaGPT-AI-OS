@@ -1,0 +1,14 @@
+My naming conventions usually focus on readability and clarity.
+
+Examples:
+- ai_surveillance_system
+- fake_news_detection
+- driver_drowsiness_detection
+
+Preferences:
+- descriptive names
+- lowercase with underscores
+- meaningful variable names
+- organized file naming
+
+I prefer naming that makes project purpose immediately understandable.

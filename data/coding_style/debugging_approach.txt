@@ -1,0 +1,17 @@
+My debugging approach usually involves:
+1. isolating the issue
+2. checking logs and outputs
+3. verifying dependencies
+4. testing components individually
+5. simplifying workflows
+6. iterating gradually
+
+I commonly debug:
+- Flask route issues
+- OpenCV integration problems
+- dependency conflicts
+- frontend-backend communication
+- AI model loading issues
+- deployment problems
+
+I prefer solving issues practically through testing and iteration rather than overcomplicating fixes.

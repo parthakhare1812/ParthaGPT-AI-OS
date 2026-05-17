@@ -1,0 +1,19 @@
+Deployment Notes:
+
+Deployment is important for converting projects into usable real-world systems.
+
+Platforms Explored:
+- Streamlit Cloud
+- Railway
+- Render
+- GitHub
+
+Common Challenges:
+- dependency issues
+- environment configuration
+- model loading
+- API setup
+- deployment debugging
+
+Key Learning:
+A project is not truly complete until users can access and interact with it properly.

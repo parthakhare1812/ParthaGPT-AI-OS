@@ -1,0 +1,45 @@
+Neural Style Transfer using pyTorch
+
+Apr 2025 – Apr 2025
+
+
+Associated with Vellore Institute of Technology
+
+🎨 Project Title: Neural Style Transfer using PyTorch on Google Colab
+📌 Project Description:
+This project implements Neural Style Transfer (NST) — a deep learning technique that takes two images: a content image and a style image, and blends them together so that the output image looks like the content image painted in the style of the style image.
+
+Using a pre-trained VGG19 model, the project extracts features from both the content and style images, then optimizes a target image to combine the desired content and artistic style.
+
+The implementation is done in Google Colab for GPU acceleration and easy image uploads.
+
+🚀 Key Features:
+Upload your own content and style images interactively.
+
+Transfer the artistic style from one image to another.
+
+Uses PyTorch and VGG19 pretrained on ImageNet.
+
+Built-in visualization of content, style, and output images.
+
+Easy to run in Google Colab with GPU support.
+
+🧠 Tech Stack:
+Python
+
+PyTorch
+
+Torchvision
+
+Google Colab
+
+Pretrained VGG19
+
+Matplotlib & PIL
+
+🖼️ Example Use-Cases:
+Applying famous artist styles (e.g., Van Gogh, Picasso) to photographs.
+
+Generating creative artwork from simple input images.
+
+Learning computer vision and style transfer in deep learning.

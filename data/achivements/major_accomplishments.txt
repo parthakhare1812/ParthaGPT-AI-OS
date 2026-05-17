@@ -1,0 +1,24 @@
+Major Accomplishments:
+
+1. Built more than 60 projects across multiple technical domains.
+
+2. Developed AI-powered systems involving:
+- computer vision
+- NLP
+- automation
+- intelligent monitoring
+
+3. Created strong AI-focused portfolio projects.
+
+4. Built systems using:
+- Flask
+- OpenCV
+- YOLO
+- Machine Learning
+- RAG concepts
+
+5. Developed a strong interest in advanced AI engineering and autonomous systems.
+
+6. Maintained continuous project-building and technical experimentation.
+
+7. Focused on futuristic and innovation-driven systems instead of repetitive applications.

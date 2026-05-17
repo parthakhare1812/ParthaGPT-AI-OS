@@ -1,0 +1,43 @@
+PARTHA KHARE
+Bhopal, India | parthakhare7@gmail.com | +91-9630216666
+LinkedIn: linkedin.com/in/partha-khare-1115b131b | GitHub: github.com/parthakhare1812
+
+PROFESSIONAL SUMMARY
+Computer Science undergraduate with strong foundations in Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in building end-to-end AI-driven systems across computer vision, NLP, and LLM-based applications.
+EDUCATION
+VIT Bhopal University, Bhopal, India
+B.Tech in Computer Science Engineering | Expected 2028
+EXPERIENCE
+Artificial Intelligence Intern — CodeAlpha
+Oct 2025 – Nov 2025
+•	Developed and trained machine learning models for real-world datasets
+•	Integrated AI components into production-ready systems
+Generative AI Intern — Prodigy InfoTech
+Jun 2025 – Jul 2025
+•	Fine-tuned GPT-2 models for text generation
+•	Deployed AI applications using Flask and Streamlit
+KEY PROJECTS
+AI Content Generator (LLM + RAG)
+•	Built a domain-specific content generation system using FastAPI and vector databases
+Driver Drowsiness Detection System
+•	Real-time fatigue detection using OpenCV and MediaPipe
+Fake News Detection
+•	NLP-based classifier using TF-IDF and machine learning models
+ MediGaurd AI 
+•	Multi conventional Models trained nd fine-tuned models with SAH enabled for better accuracy
+Personal Cloud Storage with AI Organization
+•	: Architected a full-stack application (React, Node.js, MongoDB) that automatically tags and organizes user-uploaded files using integrated AI models.
+•	Multi-Object Detection & Pose Estimation
+•	Implemented advanced computer vision models using YOLOv5 for object detection and MediaPipe for real-time human pose estimation. (A comprehensive portfolio of over 270 projects is available on my GitHub profile.)
+TECHNICAL SKILLS
+Languages: Python, Java , JavaScript, SQL,HTML,
+AI/ML: PyTorch, TensorFlow, OpenCV, NLP, CNNs,LLMs,RAGs,Pandas,ScikitLearn,Data Visualization
+Web: Flask, Django, React, REST APIs
+Tools: Git, GitHub, Docker, Google Colab,vsCode
+ACHIEVEMENTS
+• Global Rank 1 – E-Marketing Strategy
+• 500+ curated AI & ML projects
+• Multiple industry internships in AI, Data & Security
+• Completed 165+ Certificates across various domains (AI,ML,Leaderhip Skills,Managment,Languages)
+• SIH Selection to round 2
+Experience with working in more than 7 startup and website.

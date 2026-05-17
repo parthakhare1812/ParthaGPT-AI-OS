@@ -1,0 +1,21 @@
+My architecture preferences focus on modular and scalable systems.
+
+I prefer architectures that:
+- separate frontend and backend logic
+- organize AI pipelines clearly
+- support future scalability
+- allow modular expansion
+- simplify debugging
+
+I enjoy designing:
+- AI pipelines
+- autonomous workflows
+- multi-component systems
+- agent-based architectures
+- intelligent processing systems
+
+I prefer balancing:
+- simplicity
+- scalability
+- readability
+- functionality

@@ -1,0 +1,16 @@
+Agri AI
+
+
+Associated with Slash Mark IT Solutions (OPC) Pvt. Ltd
+
+AI Agriculture Intelligence Platform is a full-stack, multi-model AI system designed to assist farmers and users in making data-driven agricultural decisions. The platform integrates machine learning, deep learning, and real-time APIs into a single unified dashboard, providing actionable insights across various aspects of farming.
+
+The system includes multiple intelligent modules such as crop recommendation, soil health prediction, plant disease detection using image-based deep learning, fertilizer recommendation, and weather-based advisory. Additionally, a real-time agriculture news module enhances user awareness of current trends and developments in the agricultural domain.
+
+The backend is developed using Flask with a modular architecture based on Blueprints, ensuring scalability and maintainability. Machine learning models are built using Scikit-learn for tabular data, while a convolutional neural network (EfficientNet) is used for plant disease detection. The frontend is designed using Tailwind CSS and JavaScript, featuring an interactive dashboard with dynamic inputs, image upload capabilities, and data visualizations using Chart.js.
+
+The platform also incorporates best practices such as model optimization, reusable utility modules, API integration, and environment-based configuration. The entire system is containerized using Docker and deployed on a cloud platform, making it accessible as a real-world application.
+
+This project demonstrates the ability to build end-to-end AI systems, combining data processing, model development, backend engineering, frontend design, and deployment into a single production-ready solution.
+
+Skills: Cascading Style Sheets (CSS), Deep Learning, +3 skills

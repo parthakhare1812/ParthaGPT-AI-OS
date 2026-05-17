@@ -1,0 +1,7 @@
+Partha Khare is a Computer Science Engineering student at VIT Bhopal University with strong interests in Artificial Intelligence, Machine Learning, Computer Vision, AI Agents, and futuristic software systems.
+
+He focuses on building practical AI-powered applications that combine intelligent automation, modern interfaces, and real-world usability. His project portfolio includes AI surveillance systems, driver drowsiness detection, fake news detection, intelligent dashboards, automation systems, and AI-powered web applications.
+
+He is highly project-oriented and believes in learning through building. His interests include autonomous systems, AI memory architectures, multi-agent systems, and scalable intelligent platforms.
+
+He also actively documents his learning journey and technical growth through LinkedIn and project showcases.

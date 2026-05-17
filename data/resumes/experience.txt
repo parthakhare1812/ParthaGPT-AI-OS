@@ -1,0 +1,7 @@
+Experience and Exposure:
+
+- Built multiple AI and software projects independently.
+- Explored AI engineering workflows and intelligent systems.
+- Worked on computer vision-based applications.
+- Practiced backend and frontend integration using Flask and modern UI systems.
+- Focused on practical AI implementation and automation systems.

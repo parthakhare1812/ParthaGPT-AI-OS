@@ -1,0 +1,38 @@
+PARTHA KHARE
+Bhopal, India | parthakhare7@gmail.com | +91-9630216666 | LinkedIn: linkedin.com/in/partha-khare-1115b131b | GitHub: github.com/parthakhare1812
+PROFESSIONAL SUMMARY
+Computer Science undergraduate specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development. Experienced in designing and deploying intelligent systems across computer vision, NLP, and LLM-based applications. Strong focus on building scalable solutions, rapid prototyping, and solving real-world problems through technology.
+EDUCATION
+VIT Bhopal University — B.Tech in Computer Science Engineering (Expected 2028)
+EXPERIENCE
+Marketing Intern, 1Stop.ai (Apr 2026 – Present)
+•	Executed outreach campaigns and improved engagement through targeted strategies
+•	Analyzed performance metrics and optimized campaigns using data-driven insights
+•	Collaborated with cross-functional teams to ensure effective execution
+Machine Learning Intern, Slash Mark IT Solutions (Mar 2026 – Apr 2026)
+•	Built and evaluated machine learning models on real-world datasets
+•	Applied Python, Pandas, and Scikit-learn for data preprocessing and modeling
+•	Followed industry practices for clean coding, testing, and documentation
+AI Intern, ShadowFox & CodeClause (Jan 2026 – Mar 2026)
+•	Developed AI-based projects across computer vision and NLP domains
+•	Strengthened understanding of model building, evaluation, and deployment workflows
+KEY PROJECTS
+Smart Image Search Engine
+•	Developed a multi-modal retrieval system using CLIP embeddings
+•	Enabled semantic search across both text and image inputs
+Driver Drowsiness Detection System
+•	Built real-time fatigue detection using OpenCV and MediaPipe
+•	Improved safety by detecting eye closure and alerting users
+Intelligent OMR Evaluation System
+•	Automated OMR sheet analysis handling partial and noisy markings
+•	Implemented image processing techniques for accurate scoring
+SQL Engine on JSON Data
+•	Built a custom SQL parser supporting SELECT, JOIN, GROUP BY operations
+•	Executed queries on JSON datasets without traditional databases
+TECHNICAL SKILLS
+Languages: Python, Java, JavaScript, SQL | AI/ML: TensorFlow, PyTorch, OpenCV, NLP, CNNs, LLMs, Scikit-learn | Web: Flask, React, REST APIs | Tools: Git, Docker, VS Code
+ACHIEVEMENTS
+•	Global Rank 1 – E-Marketing Strategy Competition
+•	Selected for Smart India Hackathon (Round 2)
+•	Finalist – Johns Hopkins Health Hackathon
+•	Developed and published pydoc-ai (CLI tool using AST + LLMs with CI/CD pipeline)

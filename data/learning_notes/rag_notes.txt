@@ -1,0 +1,34 @@
+RAG (Retrieval-Augmented Generation) Notes:
+
+RAG systems combine:
+- retrieval systems
+- vector databases
+- language models
+
+Core Workflow:
+User Query
+↓
+Embedding Generation
+↓
+Vector Search
+↓
+Relevant Context Retrieval
+↓
+LLM Response Generation
+
+Important Components:
+- embeddings
+- chunking
+- semantic search
+- vector databases
+- retrievers
+
+Technologies:
+- ChromaDB
+- LangChain
+- sentence transformers
+
+Key Learning:
+RAG systems allow AI to use external knowledge dynamically instead of relying only on training data.
+
+RAG is extremely important for building AI memory systems like ParthaGPT.

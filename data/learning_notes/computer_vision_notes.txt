@@ -1,0 +1,30 @@
+Computer Vision Notes:
+
+Computer Vision focuses on enabling systems to understand images and video streams.
+
+Areas I enjoy:
+- object detection
+- surveillance systems
+- face detection
+- real-time video analysis
+- intelligent monitoring
+
+Technologies Used:
+- OpenCV
+- YOLO
+- image preprocessing
+- video stream handling
+
+Important Concepts:
+- frame processing
+- object tracking
+- image recognition
+- real-time inference
+- detection pipelines
+
+Key Learning:
+Real-time AI systems require balancing:
+- accuracy
+- processing speed
+- scalability
+- usability

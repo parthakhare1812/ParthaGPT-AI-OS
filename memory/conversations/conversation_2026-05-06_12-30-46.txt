@@ -1,0 +1,16 @@
+
+USER:
+What kind of AI systems do I like?
+
+PARTHAGPT:
+As a digital AI clone of myself, I can confidently say that I have a strong affinity for building end-to-end AI systems that integrate multiple technologies and disciplines. Based on my project experiences, such as the Agri AI platform, I tend to favor AI systems that combine data processing, model development, backend engineering, frontend design, and deployment into a single production-ready solution.
+
+My interests also lie in AI systems that incorporate best practices like model optimization, reusable utility modules, API integration, and environment-based configuration. The use of containerization via Docker and cloud deployment is also a key aspect of the systems I enjoy working with, as seen in the Agri AI project.
+
+Furthermore, I'm drawn to AI systems that enable custom training, prompt engineering, and real-time knowledge grounding, such as the AI content generator project. This allows for more precise and controlled outputs, which is essential for many applications.
+
+In addition, I appreciate AI systems that leverage computer vision, like the AI-Based Room Decor Suggestion System, which analyzes images of indoor rooms to provide intelligent decoration suggestions. This showcases the potential of AI in enhancing aesthetic appeal and functionality.
+
+Lastly, my experience with the AI Chatbot with SQLite Integration project demonstrates my interest in building lightweight, fast, and easily extendable AI-powered chatbots that interact with users via the command line and retrieve responses from databases using fuzzy string matching.
+
+Overall, my preference is for AI systems that are innovative, scalable, and practical, with a focus on combining multiple technologies to create cutting-edge solutions.

@@ -1,0 +1,45 @@
+🚧 𝑩𝒖𝒊𝒍𝒕 𝒂𝒏 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑮𝒆𝒐-𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆 𝑺𝒚𝒔𝒕𝒆𝒎 𝒇𝒐𝒓 𝑺𝒎𝒂𝒓𝒕 𝑹𝒐𝒂𝒅 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 🌿
+Most rural and hilly regions in India face a common problem —
+❌ Roads fail due to heavy rainfall, weak soil, and difficult terrain
+❌ Construction is expensive and not sustainable
+So I built something to tackle this 👇
+💡 𝑬𝒄𝒐𝑴𝒐𝒅 𝑹𝒐𝒂𝒅𝒔 – 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑴𝒐𝒅𝒖𝒍𝒂𝒓 𝑹𝒐𝒂𝒅 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎
+A web-based platform that combines AI + geospatial data + sustainability to help plan durable roads using bamboo reinforcement and recycled plastic.
+
+🔧 𝑾𝒉𝒂𝒕 𝒕𝒉𝒆 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒐𝒆𝒔:
+
+📍 Click anywhere on the map →
+→ Fetches real-time rainfall 🌧️
+→ Runs ML model
+→ Predicts road durability
+→ Classifies risk (Low / Medium / High)
+→ Shows results instantly
+
+🔥 𝑰𝒕 𝒂𝒍𝒔𝒐 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒔:
+• Risk heatmaps across regions
+• Feature importance (Explainable AI)
+• Cost estimation
+• Downloadable PDF reports
+
+🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
+• Python (Flask) – Backend
+• Machine Learning (Random Forest)
+• Leaflet.js – Interactive maps
+• Chart.js – Visualization
+• OpenWeather API – Real-time data
+• Tailwind CSS – UI
+
+🚀 𝑲𝒆𝒚 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔:
+✔ Explainable AI (why the model predicts something)
+✔ Real-time weather integration
+✔ Multi-layer GIS visualization (satellite + rainfall + heatmap)
+✔ Sustainable engineering approach (bamboo + recycled plastic)
+
+🌍 𝑾𝒉𝒚 𝒕𝒉𝒊𝒔 𝒎𝒂𝒕𝒕𝒆𝒓𝒔:
+This isn’t just a tech project —
+It’s a step toward climate-resilient and cost-effective infrastructure in regions like Northeast India.
+💭 This project pushed me to combine:
+AI + Web Dev + Real-world problem solving + Sustainability
+Would love your feedback 🙌
+Open to collaborations & ideas!
+hashtag#AI hashtag#MachineLearning hashtag#WebDevelopment hashtag#Geospatial hashtag#Sustainability hashtag#Hackathon hashtag#Flask hashtag#OpenSource hashtag#Engineering hashtag#Innovation

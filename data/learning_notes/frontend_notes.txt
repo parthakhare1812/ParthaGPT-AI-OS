@@ -1,0 +1,25 @@
+Frontend Development Notes:
+
+Frontend development focuses on creating interactive and visually appealing user experiences.
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+UI Preferences:
+- futuristic design
+- dark themes
+- animated interfaces
+- dashboard layouts
+- responsive design
+
+Key Learning:
+Good UI improves:
+- usability
+- engagement
+- perceived intelligence
+- user experience
+
+I enjoy combining AI systems with modern frontend interfaces.

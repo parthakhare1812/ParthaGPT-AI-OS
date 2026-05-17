@@ -1,0 +1,14 @@
+AI-focused engineering student passionate about building intelligent systems involving machine learning, computer vision, automation, and AI agents.
+
+Strong interest in:
+- AI engineering
+- autonomous systems
+- intelligent workflows
+- computer vision
+- AI-powered applications
+
+Experienced in building practical AI projects using:
+- Flask
+- OpenCV
+- YOLO
+- Machine Learning frameworks
