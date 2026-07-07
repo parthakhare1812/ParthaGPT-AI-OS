@@ -1,0 +1,28 @@
+# ParthaGPT-AI-OS — Python dependencies
+# Install with: pip install -r requirements.txt
+#
+# Pinned to minimum compatible versions; upgrade as needed.
+
+# ── LLM API ──────────────────────────────────────────────────────────────────
+groq>=0.9.0                    # Groq Python SDK (llama-3.3-70b-versatile)
+
+# ── Environment & Config ─────────────────────────────────────────────────────
+python-dotenv>=1.0.0           # Load GROQ_API_KEY and other secrets from .env
+
+# ── Vector Database & Embeddings ─────────────────────────────────────────────
+chromadb>=0.5.0                # Persistent vector store for semantic memory
+sentence-transformers>=3.0.0   # Local embedding model (all-MiniLM-L6-v2)
+
+# ── Text Chunking ─────────────────────────────────────────────────────────────
+langchain-text-splitters>=0.2.0  # RecursiveCharacterTextSplitter used in ingest.py
+
+# ── Frontend ──────────────────────────────────────────────────────────────────
+streamlit>=1.35.0              # Web UI framework
+streamlit-option-menu>=0.3.6   # Sidebar navigation used in app.py
+
+# ── Web Scraping (used by tools/web_search.py) ────────────────────────────────
+requests>=2.31.0               # HTTP requests for live web search
+beautifulsoup4>=4.12.0         # HTML parsing for web_search.py
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest>=8.0.0                  # Test runner for the tests/ directory
